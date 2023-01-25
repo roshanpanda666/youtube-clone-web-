@@ -1,0 +1,29 @@
+
+.navbar{
+    border: 2px solid red;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.middle-section{
+    flex: 1;
+    margin-left: 70px;
+    margin-right: 35;
+    border: 1px solid red;
+    max-width: 500px;
+}
+
+.left-section{
+    border: 1px solid red;
+    width: 150px;
+}
+.right-section{
+    border: 1px solid red;
+    width: 200px;
+    margin-left: 50px;
+}
+
+
+

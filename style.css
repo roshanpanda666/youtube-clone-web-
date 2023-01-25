@@ -6,7 +6,13 @@ body{
 
 .container{
     display: flex;
+    flex-wrap: wrap;
 
+}
+
+.container2{
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .thumbnail{
@@ -58,9 +64,12 @@ body{
 
 .lowerparts2{
     display: flex;
-    height: 85px;
+   
     
 
+}
+#tmbdp{
+    border-radius: 50px;
 }
 
 
@@ -92,5 +101,10 @@ body{
     border-radius: 10px;
 }
 
+
+.navbar{
+    border: 2px solid red;
+    height: 50px;
+}
 
 
